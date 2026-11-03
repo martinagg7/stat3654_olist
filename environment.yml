@@ -1,0 +1,15 @@
+name: olist
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - statsmodels
+  - ipykernel
+  - matplotlib
+  - jupyterlab
+  - seaborn
+  - scikit-learn
+  - scipy
+  - pandas
+prefix: /Users/martinagarciagonzalez/anaconda3/envs/olist
